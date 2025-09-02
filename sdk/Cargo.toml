@@ -20,9 +20,5 @@ antegen-thread-program = { workspace = true, features = ["cpi"] }
 
 anchor-lang = { workspace = true }
 
-chrono = { workspace = true }
-nom = { workspace = true }
-once_cell = { workspace = true }
-
 [features]
 default = []
