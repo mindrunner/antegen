@@ -56,6 +56,9 @@ jobs:
       - name: Install yq
         run: sudo snap install yq
 
+      - name: Install deps
+        run: sudo apt-get install -y libudev-dev pkg-config
+
       - name: Set up Docker
         uses: docker/setup-docker-action@v4
 
