@@ -409,11 +409,11 @@ dependencies = [
 
 [[package]]
 name = "antegen"
-version = "2.3.0"
+version = "2.1.11"
 
 [[package]]
 name = "antegen-cli"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "anchor-lang",
  "antegen-network-program",
@@ -447,7 +447,7 @@ dependencies = [
 
 [[package]]
 name = "antegen-network-program"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "anchor-lang",
  "anchor-spl",
@@ -458,7 +458,7 @@ dependencies = [
 
 [[package]]
 name = "antegen-plugin"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "agave-geyser-plugin-interface",
  "anchor-lang",
@@ -487,7 +487,7 @@ dependencies = [
 
 [[package]]
 name = "antegen-plugin-utils"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "agave-geyser-plugin-interface",
  "serde",
@@ -496,7 +496,7 @@ dependencies = [
 
 [[package]]
 name = "antegen-sdk"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "anchor-lang",
  "antegen-thread-program",
@@ -504,7 +504,7 @@ dependencies = [
 
 [[package]]
 name = "antegen-test-program"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "anchor-lang",
  "anchor-spl",
@@ -513,7 +513,7 @@ dependencies = [
 
 [[package]]
 name = "antegen-thread-program"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "anchor-lang",
  "anchor-spl",
@@ -527,7 +527,7 @@ dependencies = [
 
 [[package]]
 name = "antegen-utils"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "anchor-lang",
  "base64 0.22.1",
@@ -4625,7 +4625,7 @@ dependencies = [
 
 [[package]]
 name = "solana-cron"
-version = "2.3.0"
+version = "2.1.11"
 dependencies = [
  "chrono",
  "nom",
